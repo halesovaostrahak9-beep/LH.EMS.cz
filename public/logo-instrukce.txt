@@ -1,0 +1,21 @@
+=== NÁVOD PRO PŘIDÁNÍ LOGA ===
+
+1. VLOŽTE VÁŠ SOUBOR S LOGEM DO TÉTO SLOŽKY (public/)
+
+2. POJMENUJTE SOUBOR: logo.png
+   (nebo logo.jpg či logo.svg)
+
+3. DOPORUČENÉ ROZMĚRY: 48x48 až 96x96 pixelů
+
+4. PO VLOŽENÍ SOUBORU SE LOGO AUTOMATICKY ZOBRAZÍ NA WEBU
+
+=== STRUKTURA SLOŽEK ===
+public/
+├── logo.png          👈 TADY přidejte vaše logo
+├── LOGO-INSTRUKCE.txt  (tento soubor)
+└── vite.svg
+
+=== HOTOVO! ===
+Logo se zobrazí v hlavičce i patičce webu.
+
+Pokud máte problémy, podívejte se do souboru LOGO-NAVOD.md v kořenovém adresáři.
